@@ -2,8 +2,8 @@
 
 EPFL Tools est une organisation non officielle dont le but est de proposer des outils numériques open source pour les étudiants de l'EPFL.
 
-* [English version]()
-* [French version]()
+* [English version](https://github.com/epfl-tools/.github/blob/main/profile/README.md)
+* [French version](https://github.com/epfl-tools/.github/blob/main/profile/README_fr.md)
 
 ## Gestion des services
 
