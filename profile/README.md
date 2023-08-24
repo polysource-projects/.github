@@ -26,4 +26,9 @@ In any case, for questions of efficiency, security and maintenance, we will only
 
 🔥 Once the Pull Request has been accepted, your service will be automatically deployed to an epfl.tools subdomain with an SSL certificate and automatic deployment with each commit.
 
-If you have any questions, please don't hesitate to contact us at contact@epfl.tools or by opening a 
+If you have any questions, don't hesitate to contact us via contact@epfl.tools or by opening an issue on the [epfl-tools/apps] repository (https://github.com/epfl-tools/apps).
+For example, if you don't know how to create a `Dockerfile` or `captain-defition` for your project, we can probably do it for you.
+
+## Notes
+
+* As far as possible, try to keep as much abstraction as possible for each of your projects. For example, if your web app needs to scrape people.epfl.ch or another site, create a universal scraper that can be reused for other projects (even if it only supports the 1-2 features you need), rather than integrating the scraper code directly into your app. (you'll be glad your app keeps working even if the site changes because someone keeps updating the scraper 😉 )
