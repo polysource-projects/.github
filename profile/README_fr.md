@@ -10,7 +10,7 @@ EPFL Tools est une organisation non officielle dont le but est de proposer des o
 Pour garder une organisation efficace, tous nos projets sont :
 - ✅ entièrement open source
 - ✅ déployables via un fichier `captain-definition` (support de Dockerfile et de Docker Compose) 
-- ✅ si le service est à destination des bachelor, en français (dont le README et la documentation)
+- ✅ si le service est à destination des étudiants en bachelor, en français (dont le README et la documentation)
 - ✅ en anglais si le public est plus global
 
 Si vous souhaitez ajouter votre service :
