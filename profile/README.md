@@ -10,8 +10,8 @@ EPFL Tools is an unofficial organization whose goal is to provide open source di
 To keep our organization efficient, all our projects are :
 - ✅ entirely open source
 - ✅ deployable via a `captain-definition` file (support for Dockerfile and Docker Compose) 
-- ✅ if the service is intended for bachelors, in French (including README and documentation)
-- ✅ in English if the audience is more global
+- ✅ if the service is intended for undergraduate students, in French (including README and documentation)
+- ✅ in English for a larger audience
 
 If you'd like to add your service:
 * 💥 create a fork of the [epfl-tools/apps] repository(https://github.com/epfl-tools/apps)
