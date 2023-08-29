@@ -14,7 +14,7 @@ To keep our organization efficient, all our projects are :
 - ✅ in English for a larger audience
 
 If you'd like to add your service:
-* 💥 create a fork of the [epfl-tools/apps] repository(https://github.com/epfl-tools/apps)
+* 💥 create a fork of the [epfl-tools/apps repository](https://github.com/epfl-tools/apps)
 * 💥 modify the `apps.json` file (add your service)
 * 💥 open a Pull Request
 
@@ -26,7 +26,7 @@ In any case, for questions of efficiency, security and maintenance, we will only
 
 🔥 Once the Pull Request has been accepted, your service will be automatically deployed to an epfl.tools subdomain with an SSL certificate and automatic deployment with each commit.
 
-If you have any questions, don't hesitate to contact us via contact@epfl.tools or by opening an issue on the [epfl-tools/apps repository] (https://github.com/epfl-tools/apps).
+If you have any questions, don't hesitate to contact us via contact@epfl.tools or by opening an issue on the [epfl-tools/apps repository](https://github.com/epfl-tools/apps).
 For example, if you don't know how to create a `Dockerfile` or `captain-defition` for your project, we can probably do it for you.
 
 ## Notes
