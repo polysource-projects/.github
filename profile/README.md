@@ -1,9 +1,9 @@
-## Welcome to EPFL Tools 👋
+## Welcome to PolySource 👋
 
-EPFL Tools is an unofficial organization whose goal is to provide open source digital tools for EPFL students.
+PolySource is an unofficial organization whose goal is to provide open source digital tools for EPFL students.
 
-* [English version](https://github.com/epfl-tools/.github/blob/main/profile/README.md)
-* [French version](https://github.com/epfl-tools/.github/blob/main/profile/README_fr.md)
+* [English version](https://github.com/polysource-projects/.github/blob/main/profile/README.md)
+* [French version](https://github.com/polysource-projects/.github/blob/main/profile/README_fr.md)
 
 ## Service management
 
@@ -14,7 +14,7 @@ To keep our organization efficient, all our projects are :
 - ✅ in English for a larger audience
 
 If you'd like to add your service:
-* 💥 create a fork of the [epfl-tools/apps repository](https://github.com/epfl-tools/apps)
+* 💥 create a fork of the [polysource-projects/apps repository](https://github.com/polysource-projects/apps)
 * 💥 modify the `apps.json` file (add your service)
 * 💥 open a Pull Request
 
@@ -24,9 +24,9 @@ Please also let us know if you wish to:
 
 In any case, for questions of efficiency, security and maintenance, we will only deploy repositories added in the organization GitHub account.
 
-🔥 Once the Pull Request has been accepted, your service will be automatically deployed to an epfl.tools subdomain with an SSL certificate and automatic deployment with each commit.
+🔥 Once the Pull Request has been accepted, your service will be automatically deployed to an polysource.ch subdomain with an SSL certificate and automatic deployment with each commit.
 
-If you have any questions, don't hesitate to contact us via contact@epfl.tools or by opening an issue on the [epfl-tools/apps repository](https://github.com/epfl-tools/apps).
+If you have any questions, don't hesitate to contact us via contact@polysource.ch or by opening an issue on the [polysource-projects/apps repository](https://github.com/polysource-projects/apps).
 For example, if you don't know how to create a `Dockerfile` or `captain-defition` for your project, we can probably do it for you.
 
 ## Notes
