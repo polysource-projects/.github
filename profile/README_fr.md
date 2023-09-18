@@ -1,9 +1,9 @@
-## Bienvenus sur EPFL Tools 👋
+## Bienvenus sur PolySource 👋
 
-EPFL Tools est une organisation non officielle dont le but est de proposer des outils numériques open source pour les étudiants de l'EPFL.
+PolySource est une organisation non officielle dont le but est de proposer des outils numériques open source pour les étudiants de l'EPFL.
 
-* [English version](https://github.com/epfl-tools/.github/blob/main/profile/README.md)
-* [French version](https://github.com/epfl-tools/.github/blob/main/profile/README_fr.md)
+* [English version](https://github.com/polysource-projects/.github/blob/main/profile/README.md)
+* [French version](https://github.com/polysource-projects/.github/blob/main/profile/README_fr.md)
 
 ## Gestion des services
 
@@ -14,7 +14,7 @@ Pour garder une organisation efficace, tous nos projets sont :
 - ✅ en anglais si le public est plus global
 
 Si vous souhaitez ajouter votre service :
-* 💥 créer un fork du repository [epfl-tools/apps](https://github.com/epfl-tools/apps)
+* 💥 créer un fork du repository [polysource-projects/apps](https://github.com/polysource-projects/apps)
 * 💥 modifier le fichier `apps.json` (ajouter votre service)
 * 💥 ouvrir une Pull Request
 
@@ -24,9 +24,9 @@ Merci également de nous indiquer si vous souhaitez :
 
 Dans tous les cas, pour des questions d'efficacité, de sécurité et de maintenance, nous ne déploierons que des repositories ajoutés dans le compte GitHub organisation.
 
-🔥 Une fois la Pull Request acceptée, votre service sera automatiquement déployé vers un sous-domaine epfl.tools avec un certificat SSL et un déploiement automatique à chaque commit.
+🔥 Une fois la Pull Request acceptée, votre service sera automatiquement déployé vers un sous-domaine polysource.ch avec un certificat SSL et un déploiement automatique à chaque commit.
 
-En cas de question, n'hésitez pas à nous contacter via contact@epfl.tools ou en ouvrant une issue sur le repository [epfl-tools/apps](https://github.com/epfl-tools/apps).
+En cas de question, n'hésitez pas à nous contacter via contact@polysource.ch ou en ouvrant une issue sur le repository [polysource-projects/apps](https://github.com/polysource-projects/apps).
 Par exemple, si vous ne savez pas comment créer un fichier `Dockerfile` ou `captain-defition` pour votre projet, nous pourrons très probablement le faire pour vous.
 
 ## Notes
