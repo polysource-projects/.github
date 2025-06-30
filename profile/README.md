@@ -1,5 +1,9 @@
 ## Welcome to PolySource 👋
 
+> [!CAUTION]
+> Polysource's servers will probably shutdown before September 2025, due to the costs.
+> Feel free to reach out at simon.lefort@epfl.ch if you're looking for a free server to host an open-source project related to EPFL :)
+
 PolySource is an unofficial organization whose goal is to provide open source digital tools for EPFL students.
 
 * [English version](https://github.com/polysource-projects/.github/blob/main/profile/README.md)
